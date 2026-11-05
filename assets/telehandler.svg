@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f8fd"/>
+<circle cx="520" cy="90" r="60" fill="#dfeeff"/>
+
+<rect x="170" y="255" width="240" height="70" rx="14" fill="#1267d6"/>
+<rect x="225" y="180" width="95" height="80" rx="10" fill="#edf5ff"/>
+<rect x="240" y="198" width="62" height="40" rx="5" fill="#bcd2ea"/>
+<path d="M320 210l165-65 12 24-160 85z" fill="#2c7fdc"/>
+<rect x="480" y="125" width="18" height="85" fill="#1a2735"/>
+<rect x="497" y="195" width="95" height="11" fill="#1a2735"/>
+<circle cx="220" cy="345" r="46" fill="#18293b"/><circle cx="390" cy="345" r="46" fill="#18293b"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10243f">TH45 Telehandler</text>
+</svg>

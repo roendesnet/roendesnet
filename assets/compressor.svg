@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f8fd"/>
+<circle cx="520" cy="90" r="60" fill="#dfeeff"/>
+
+<rect x="180" y="215" width="300" height="105" rx="50" fill="#e7f0fb" stroke="#1267d6" stroke-width="5"/>
+<rect x="255" y="145" width="150" height="85" rx="16" fill="#1267d6"/>
+<circle cx="300" cy="185" r="20" fill="#10243f"/><rect x="335" y="168" width="45" height="12" rx="6" fill="#9bc1e6"/>
+<circle cx="230" cy="335" r="28" fill="#18293b"/><circle cx="430" cy="335" r="28" fill="#18293b"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10243f">AirPro 220 Compressor</text>
+</svg>

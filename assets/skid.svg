@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f8fd"/>
+<circle cx="520" cy="90" r="60" fill="#dfeeff"/>
+
+<rect x="190" y="245" width="235" height="85" rx="15" fill="#1267d6"/>
+<rect x="250" y="170" width="105" height="90" rx="12" fill="#edf5ff"/>
+<rect x="270" y="190" width="65" height="45" rx="5" fill="#bcd2ea"/>
+<path d="M425 255h70l45 60h-115z" fill="#2c7fdc"/>
+<path d="M495 315h80l-18 35h-62z" fill="#0d54aa"/>
+<circle cx="235" cy="345" r="43" fill="#18293b"/><circle cx="385" cy="345" r="43" fill="#18293b"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10243f">ST75 Skid Steer</text>
+</svg>

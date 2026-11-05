@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f8fd"/>
+<circle cx="520" cy="90" r="60" fill="#dfeeff"/>
+
+<rect x="165" y="255" width="220" height="70" rx="14" fill="#1267d6"/>
+<rect x="210" y="170" width="125" height="95" rx="12" fill="#edf5ff"/>
+<rect x="230" y="190" width="75" height="48" rx="6" fill="#bcd2ea"/>
+<path d="M335 215h70l80-70 18 16-65 85h-103z" fill="#2c7fdc"/>
+<path d="M485 145l65-35 18 25-55 45z" fill="#2c7fdc"/>
+<rect x="140" y="320" width="275" height="34" rx="16" fill="#1b2c3f"/>
+<circle cx="205" cy="337" r="18" fill="#58687a"/><circle cx="355" cy="337" r="18" fill="#58687a"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10243f">RX220 Excavator</text>
+</svg>

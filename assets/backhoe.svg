@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f8fd"/>
+<circle cx="520" cy="90" r="60" fill="#dfeeff"/>
+
+<rect x="175" y="250" width="250" height="75" rx="14" fill="#1267d6"/>
+<rect x="240" y="175" width="105" height="85" rx="10" fill="#edf5ff"/>
+<rect x="257" y="193" width="68" height="42" rx="5" fill="#bcd2ea"/>
+<path d="M425 265h75l55 48h-130z" fill="#2c7fdc"/>
+<path d="M175 245l-65-55-20 20 55 75z" fill="#2c7fdc"/>
+<circle cx="230" cy="345" r="46" fill="#18293b"/><circle cx="405" cy="345" r="46" fill="#18293b"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10243f">BH90 Backhoe Loader</text>
+</svg>

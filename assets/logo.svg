@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 76">
+<rect width="330" height="76" rx="16" fill="#ffffff"/>
+<circle cx="38" cy="38" r="22" fill="#1267d6"/>
+<path d="M24 42h28M29 31h18M32 25h12M28 49h20" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+<text x="76" y="49" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#10243f">roendesnet</text>
+</svg>

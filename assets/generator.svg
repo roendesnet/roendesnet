@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f8fd"/>
+<circle cx="520" cy="90" r="60" fill="#dfeeff"/>
+
+<rect x="165" y="170" width="310" height="170" rx="18" fill="#e7f0fb" stroke="#1267d6" stroke-width="5"/>
+<rect x="205" y="205" width="110" height="75" rx="8" fill="#1267d6"/>
+<circle cx="260" cy="242" r="24" fill="#10243f"/>
+<rect x="335" y="205" width="100" height="18" rx="9" fill="#2c7fdc"/>
+<rect x="335" y="240" width="75" height="12" rx="6" fill="#89a8c9"/>
+<circle cx="215" cy="350" r="24" fill="#18293b"/><circle cx="425" cy="350" r="24" fill="#18293b"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10243f">PowerMax 100KVA</text>
+</svg>
